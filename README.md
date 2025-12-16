@@ -77,6 +77,6 @@ Yes, industrial-grade versions are available for harsh operating conditions.
 
 ## Request a Quote
 
-Contact Versitron today to learn more about our **28 port fiber switch** or to request pricing and availability.
+Contact Versitron today to learn more about our [28 port fiber switch](https://www.versitron.com/products/sgx288164m-28port-managed-layer-2-all-fiber-switch) or to request pricing and availability.
 
 ---
